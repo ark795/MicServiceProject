@@ -23,5 +23,3 @@ public class OrderRepository : IOrderRepository
         return order;
     }
 }
-{
-}
